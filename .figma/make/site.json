@@ -1,0 +1,10 @@
+{
+  "description": "Enables users to create, analyze, and compare multi-criteria decisions with transparent scoring, sensitivity analysis, and clear explanations for smarter choices.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
